@@ -501,7 +501,7 @@ body {
 .container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	border-radius: 10px;
+	border-radius: 5px;
 	overflow: hidden;
 }
 
