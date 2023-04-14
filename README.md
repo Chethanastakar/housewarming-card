@@ -7,4 +7,4 @@
 
 
 With the divine grace of the almighty,
-inviting you and your family, wedding to be held on **12th February at [Bhagavan Sri Balaji Kalyana Mantapa](https://goo.gl/maps/BmSZ2f5BkMTHWVabA), Sira, Karnataka.
+inviting you and your family to be part in our house warming, held on Thursday, 11th May 2023 at 10.30am ‘Bethesda’, Survey no/366/5-4, Koyipram village, Pullad P.O Pathanamthitta Dist. Kerala. - 689548(https://maps.google.com/?q=9.356113,76.672928)
