@@ -506,8 +506,8 @@ body {
 }
 
 .block {
-	width: 180px;
-	height: 160px;
+	width: 160px;
+	height: 120px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
