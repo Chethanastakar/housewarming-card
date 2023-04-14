@@ -1,5 +1,5 @@
 /**
- * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ * @author Chetan KUmar <chethanastakar@gmail.com>
  */
 (function ($) {
     "use strict";
@@ -13,7 +13,7 @@ function myFunction() {
 
 $(document).on('click', function(){
     document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
+    console.log('Welcome Home');
 });
 
 // Set the date we're counting down to
