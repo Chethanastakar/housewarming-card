@@ -476,7 +476,7 @@ body {
 #time {
 	width: auto;
 	height: auto;
-	padding: 20px;
+	padding: 5px;
 	background-color: #eee;
 	border-radius: 20px;
 	font-size: 16px;
@@ -506,8 +506,8 @@ body {
 }
 
 .block {
-	width: 160px;
-	height: 120px;
+	width: 100px;
+	height: 90px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
