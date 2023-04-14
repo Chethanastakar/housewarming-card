@@ -1,9 +1,9 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: FEB 11th & 12th, 2023
+<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/home.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://sonali.netlify.app/">Welcome Home Invitation</a> 🏚️: <br> <br> SAVE THE DATE: MAY 11th, 2023
 
 
-## Wedding Invitation :ring:
+## Welcome Home Invitation 🏚️:
 
 
 With the divine grace of the almighty,
