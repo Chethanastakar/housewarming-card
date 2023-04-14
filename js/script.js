@@ -51,10 +51,10 @@ var styles = [
     , 'display: block'
     , 'text-shadow: 0 2px 0 rgba(0, 0, 0, 0.3)'
     , 'box-shadow: 0 2px 0 rgba(255, 255, 255, 0.4) inset, 0 5px 3px -5px rgba(0, 0, 0, 0.5), 0 -13px 5px -10px rgba(255, 255, 255, 0.4) inset'
-    , 'line-height: 40px'
+    , 'line-height: 20px'
     , 'text-align: center'
     , 'font-weight: bold'
-    , 'font-size: 32px'
+    , 'font-size: 22px'
 ].join(';');
 
 var styles1 = [
@@ -63,7 +63,7 @@ var styles1 = [
     , 'text-shadow: 0 2px 0 rgba(0, 0, 0, 1)'
     , 'line-height: 20px'
     , 'font-weight: bold'
-    , 'font-size: 32px'
+    , 'font-size: 22px'
 ].join(';');
 
 var styles2 = [
@@ -72,7 +72,7 @@ var styles2 = [
     , 'text-shadow: 0 2px 0 rgba(0, 0, 0, 1)'
     , 'line-height: 20px'
     , 'font-weight: bold'
-    , 'font-size: 32px'
+    , 'font-size: 22px'
 ].join(';');
 
 console.log('\n\n%c SAVE THE DATE: 11th May, 2023!', styles);
